@@ -1,7 +1,7 @@
 # E-Commerce-Data-Analysis-and-Visulization---Olist
 
 ## About Project 
-Performed company, customer, product, and metrics analysis and visulization for Brazilian E-Commerce company (Olist)
+Performed company, customer, product, and metrics analysis and visulization for Brazilian E-Commerce company
 
 Conducted ETL using MySQL, including extracting, cleaning, and analyzing data.
 
